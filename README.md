@@ -5,7 +5,7 @@ A lightweight medical-visualization style demo that generates a synthetic 3D vol
 This project is intentionally plugin-free (no DICOM dependency) to keep the focus on **visualization fundamentals**, UI clarity, and performance-safe rendering in Unity.
 
 ## Live WebGL Demo
-https://shounak00.github.io/medviz-volume-slicer/
+[https://shounak00.github.io/medviz-volume-slicer/](https://tpshounak00.github.io/medviz-volume-slicer/)
 
 
 ## Demo
