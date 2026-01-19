@@ -4,6 +4,10 @@ A lightweight medical-visualization style demo that generates a synthetic 3D vol
 
 This project is intentionally plugin-free (no DICOM dependency) to keep the focus on **visualization fundamentals**, UI clarity, and performance-safe rendering in Unity.
 
+## Live WebGL Demo
+https://shounak00.github.io/medviz-volume-slicer/
+
+
 ## Demo
 ![Tri-planar overview](Docs/tri_planar_overview.png)
 
@@ -48,6 +52,8 @@ This mirrors common imaging UI patterns used in medical software:
 - Histogram view + interactive thresholds
 - GPU shader-based slice sampling for larger volumes
 - Import pipeline for real volumes (DICOM/NIfTI) in native builds
+
+
 
 ---
 Author: MD. Asafuddaula Sobahani Shounak
